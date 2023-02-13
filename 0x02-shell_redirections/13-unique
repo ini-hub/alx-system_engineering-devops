@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Red Blue Yellow Blue Pink Orange Red Yellow" | sort -u
